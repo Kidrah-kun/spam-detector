@@ -1,0 +1,76 @@
+label,message,clean_text,processed_text,msg_length,word_count,num_links,num_exclaim,num_special,num_digits,num_upper,upper_ratio,has_html,trigger_count
+spam,Your free ringtone is waiting! Text MIX to 85069 to verify. Get Usher ringtone FREE,your free ringtone is waiting text mix to to verify get usher ringtone free,free rington wait text mix verifi get usher rington free,83,15,0,1,2,5,11,0.13095238095238096,0,1
+ham,"Just landed, will call you when I get my bags",just landed will call you when i get my bags,land call get bag,45,10,0,0,1,0,2,0.043478260869565216,0,0
+spam,Camera - you asked to be in our database? Txt YES to get voucher codes worth 500 FREE,camera you asked to be in our database txt yes to get voucher codes worth free,camera ask databas txt ye get voucher code worth free,85,18,0,0,2,3,9,0.10465116279069768,0,1
+ham,Hey. What time does the movie start?,hey what time does the movie start,hey time movi start,36,7,0,0,2,0,2,0.05405405405405406,0,0
+spam,FREE iPhone if you complete our survey. Click here now to claim,free iphone if you complete our survey click here now to claim,free iphon complet survey click claim,63,12,0,0,1,0,6,0.09375,0,3
+spam,"Subject: You Are A Winner
+Congratulations! Claim your reward by calling 0800 FREE now.",subject you are a winner congratulations claim your reward by calling free now,subject winner congratul claim reward call free,86,14,0,1,3,4,11,0.12643678160919541,0,5
+spam,"Subject: Investment Opportunity
+Double your savings guaranteed! Limited time offer. Call now.",subject investment opportunity double your savings guaranteed limited time offer call now,subject invest opportun doubl save guarante limit time offer call,93,12,0,1,4,0,6,0.06382978723404255,0,4
+spam,Congratulations! You have won 1000 cash or a top Sony TV. Call now 08718726971,congratulations you have won cash or a top sony tv call now,congratul cash top soni call,78,14,0,1,2,15,6,0.0759493670886076,0,3
+ham,"Subject: Meeting Tomorrow
+Hi team, reminder that our weekly sync is at 10am tomorrow in room B.",subject meeting tomorrow hi team reminder that our weekly sync is at am tomorrow in room b,subject meet tomorrow team remind weekli sync tomorrow room,95,17,0,0,3,2,5,0.052083333333333336,0,0
+ham,"Running late, be there in 20 mins sorry",running late be there in mins sorry,run late min sorri,39,8,0,0,1,2,1,0.025,0,0
+ham,"Subject: Updated Policy
+Please review the updated employee handbook and sign the acknowledgment form.",subject updated policy please review the updated employee handbook and sign the acknowledgment form,subject updat polici pleas review updat employe handbook sign acknowledg form,101,14,0,0,2,0,4,0.0392156862745098,0,0
+ham,Happy birthday! Hope you have a great day,happy birthday hope you have a great day,happi birthday hope great day,41,8,0,1,1,0,2,0.047619047619047616,0,0
+spam,Win a 200 gift card. Reply WIN to claim your prize today. Limited time!,win a gift card reply win to claim your prize today limited time,win gift card repli win claim prize today limit time,71,14,0,1,3,3,6,0.08333333333333333,0,4
+spam,Call now and win 500 pounds FREE! Text WIN to 89555 now!,call now and win pounds free text win to now,call win pound free text win,56,12,0,2,2,8,9,0.15789473684210525,0,3
+ham,Can you pick up some milk on the way home?,can you pick up some milk on the way home,pick milk way home,42,10,0,0,1,0,1,0.023255813953488372,0,0
+spam,Earn 500 from home! Easy work great pay. Reply for details now,earn from home easy work great pay reply for details now,earn home easi work great pay repli detail,62,12,0,1,2,3,3,0.047619047619047616,0,0
+ham,Ok lar... Joking wif u oni...,ok lar joking wif u oni,lar joke wif oni,29,6,0,0,6,0,2,0.06666666666666667,0,0
+spam,WINNER!! You have been selected to receive a 900 prize reward! Call 09061701461 to claim now,winner you have been selected to receive a prize reward call to claim now,winner select receiv prize reward call claim,92,16,0,3,3,14,8,0.08602150537634409,0,4
+ham,"Subject: Conference Registration
+Registration for the annual tech conference is open. Deadline end of month.",subject conference registration registration for the annual tech conference is open deadline end of month,subject confer registr registr annual tech confer open deadlin end month,108,15,0,0,3,0,5,0.045871559633027525,0,0
+spam,SIX chances to win CASH! From 100 to 20000 pounds txt CSH11 and send to 87575. Cost 150p/day,six chances to win cash from to pounds txt csh and send to cost p day,six chanc win cash pound txt csh send cost day,92,18,0,1,3,18,12,0.12903225806451613,0,2
+ham,"Subject: Lunch plans
+Are you free for lunch on Thursday? Thinking of trying that new Italian place.",subject lunch plans are you free for lunch on thursday thinking of trying that new italian place,subject lunch plan free lunch thursday think tri new italian place,99,17,0,0,3,0,6,0.06,0,1
+spam,"Subject: Urgent Business Proposal
+I am a prince needing your help to transfer funds. Confidential.",subject urgent business proposal i am a prince needing your help to transfer funds confidential,subject urgent busi propos princ need help transfer fund confidenti,98,15,0,0,3,0,6,0.06060606060606061,0,1
+spam,"Subject: Account Alert
+Your account has been compromised. Click here immediately to verify.",subject account alert your account has been compromised click here immediately to verify,subject account alert account compromis click immedi verifi,91,13,0,0,3,0,5,0.05434782608695652,0,1
+ham,I HAVE A DATE ON SUNDAY WITH WILL!!,i have a date on sunday with will,date sunday,35,8,0,2,2,0,26,0.7222222222222222,0,0
+ham,"The kids are doing great, thanks for asking",the kids are doing great thanks for asking,kid great thank ask,43,8,0,0,1,0,1,0.022727272727272728,0,0
+ham,"Sent you the document, let me know if you have questions",sent you the document let me know if you have questions,sent document let know question,56,11,0,0,1,0,1,0.017543859649122806,0,0
+ham,Mom wants to know if you are coming for dinner Sunday,mom wants to know if you are coming for dinner sunday,mom want know come dinner sunday,53,11,0,0,0,0,2,0.037037037037037035,0,0
+spam,Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free!,had your mobile months or more u r entitled to update to the latest colour mobiles with camera for free,mobil month entitl updat latest colour mobil camera free,108,21,0,1,2,2,5,0.045871559633027525,0,1
+ham,"Subject: Q3 Report Draft
+Please find attached the Q3 report draft. Please review by EOD Friday.",subject q report draft please find attached the q report draft please review by eod friday,subject report draft pleas find attach report draft pleas review eod friday,95,16,0,0,3,2,11,0.11458333333333333,0,0
+ham,"Just finished the report, sending it over now",just finished the report sending it over now,finish report send,45,8,0,0,1,0,1,0.021739130434782608,0,0
+ham,Are you coming to the party tonight?,are you coming to the party tonight,come parti tonight,36,7,0,0,1,0,1,0.02702702702702703,0,0
+ham,Even my brother is not like to speak with me. They treat me like aids patient.,even my brother is not like to speak with me they treat me like aids patient,even brother like speak treat like aid patient,78,16,0,0,2,0,2,0.02531645569620253,0,0
+spam,"Subject: Lose Weight Now
+Buy our amazing weight loss pills, guaranteed results in 7 days!",subject lose weight now buy our amazing weight loss pills guaranteed results in days,subject lose weight buy amaz weight loss pill guarante result day,89,15,0,1,3,1,5,0.05555555555555555,0,1
+spam,"Subject: Free Gift Card
+Click to claim your 500 Amazon gift card before it expires today.",subject free gift card click to claim your amazon gift card before it expires today,subject free gift card click claim amazon gift card expir today,89,16,0,0,2,3,6,0.06666666666666667,0,3
+spam,URGENT claim your free gift before it expires. Text FREE to 50505,urgent claim your free gift before it expires text free to,urgent claim free gift expir text free,65,12,0,0,1,5,11,0.16666666666666666,0,3
+ham,"Subject: Office Supplies
+The office supply order has been placed. Expect delivery by Wednesday.",subject office supplies the office supply order has been placed expect delivery by wednesday,subject offic suppli offic suppli order place expect deliveri wednesday,95,14,0,0,3,0,6,0.0625,0,0
+ham,"Nah I don t think he goes to usf, he lives around here though",nah i don t think he goes to usf he lives around here though,nah think goe usf live around though,61,14,0,0,1,0,2,0.03225806451612903,0,0
+spam,You won the lottery! Call 0800 111 2222 to claim your 50000 prize,you won the lottery call to claim your prize,lotteri call claim prize,65,13,0,1,1,16,2,0.030303030303030304,0,2
+ham,"I will be there in 10 minutes, save me a seat",i will be there in minutes save me a seat,minut save seat,45,11,0,0,1,2,1,0.021739130434782608,0,0
+spam,"Subject: Make Money Fast!
+Dear Friend, You have been selected to receive 1000 dollars. Reply now.",subject make money fast dear friend you have been selected to receive dollars reply now,subject make money fast dear friend select receiv dollar repli,97,16,0,1,5,4,8,0.08163265306122448,0,0
+spam,"Subject: Cheap Medication
+V1agra and more at 80% off, no prescription needed. Order today.",subject cheap medication v agra and more at off no prescription needed order today,subject cheap medic agra prescript need order today,90,14,0,0,5,3,5,0.054945054945054944,0,0
+ham,"Subject: Happy Birthday
+Wishing you a very happy birthday! There will be cake in the break room at 3pm.",subject happy birthday wishing you a very happy birthday there will be cake in the break room at pm,subject happi birthday wish happi birthday cake break room,103,19,0,1,3,1,5,0.04807692307692308,0,0
+ham,Did you watch the game last night? Crazy finish!,did you watch the game last night crazy finish,watch game last night crazi finish,48,9,0,1,2,0,2,0.04081632653061224,0,0
+ham,"Subject: Project Update
+Thanks for the update. The timeline looks good. Let me know if you need resources.",subject project update thanks for the update the timeline looks good let me know if you need resources,subject project updat thank updat timelin look good let know need resourc,106,18,0,0,4,0,6,0.056074766355140186,0,0
+ham,What do you want for dinner tonight?,what do you want for dinner tonight,want dinner tonight,36,7,0,0,1,0,1,0.02702702702702703,0,0
+spam,Dear valued customer you have been selected to receive a FREE gift. Reply YES to claim,dear valued customer you have been selected to receive a free gift reply yes to claim,dear valu custom select receiv free gift repli ye claim,86,16,0,0,1,0,9,0.10344827586206896,0,2
+ham,Thanks for helping me with the project yesterday,thanks for helping me with the project yesterday,thank help project yesterday,48,8,0,0,0,0,1,0.02040816326530612,0,0
+spam,"Subject: Congratulations Winner
+You have won 50000 in our online lottery. Reply to claim your prize.",subject congratulations winner you have won in our online lottery reply to claim your prize,subject congratul winner onlin lotteri repli claim prize,100,16,0,0,3,5,5,0.04950495049504951,0,5
+spam,URGENT! You have won a 1 week FREE membership in our prize Jackpot! Txt the word CLAIM to 81010,urgent you have won a week free membership in our prize jackpot txt the word claim to,urgent week free membership prize jackpot txt word claim,95,19,0,2,2,6,18,0.1875,0,4
+ham,Can we reschedule to 3pm instead? Works better for me,can we reschedule to pm instead works better for me,reschedul instead work better,53,10,0,0,1,1,2,0.037037037037037035,0,0
+ham,"Subject: Code Review Request
+Could you please review my pull request when you get a chance? No rush.",subject code review request could you please review my pull request when you get a chance no rush,subject code review request could pleas review pull request get chanc rush,100,18,0,0,3,0,6,0.0594059405940594,0,0
+ham,"Call me when you get a chance, need to talk about tomorrow",call me when you get a chance need to talk about tomorrow,call get chanc need talk tomorrow,58,12,0,0,1,0,1,0.01694915254237288,0,0
+spam,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry,free entry in a wkly comp to win fa cup final tkts st may text fa to to receive entry,free entri wkli comp win cup final tkt may text receiv entri,101,23,0,0,1,12,8,0.0784313725490196,0,2
+spam,"Subject: Work From Home
+Earn 5000 per week working just 2 hours a day from home. Easy money.",subject work from home earn per week working just hours a day from home easy money,subject work home earn per week work hour day home easi money,92,18,0,0,3,5,6,0.06451612903225806,0,0
+ham,"Subject: System Maintenance
+Planned maintenance this Saturday 2-4am. Systems will be unavailable.",subject system maintenance planned maintenance this saturday am systems will be unavailable,subject system mainten plan mainten saturday system unavail,97,12,0,0,4,2,6,0.061224489795918366,0,0
